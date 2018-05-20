@@ -1,3 +1,6 @@
+## PARA IMPLEMENTAÇÃO
+Devem ser alterados os arquivos /src/config.php com os dados da URL e RAIZ correspondentes e também o arquivo /model/config-banco-dados.php com os dados de conexão com o banco de dados.
+
 ## TECNOLOGIAS UTILIZADAS
 
 * PHP 7
